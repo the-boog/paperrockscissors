@@ -1,0 +1,36 @@
+body {
+  margin-top: 100px;
+  text-align: center;
+  font-family: papyrus;
+  font-style: bold;
+}
+
+button {  
+  block-size: 100px;
+  padding: 100px;
+}
+
+.paper {
+  background-image: url("paper.png")
+  
+
+}
+
+.rock {
+  background-image: url("rock.png")
+  
+
+}
+
+.scissors {
+  background-image: url("scissors.png")
+  
+}
+
+.imger {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  
+
+}
